@@ -1,0 +1,33 @@
+/************
+	FORMS
+************/
+
+input.submit {
+	background-color: #3e75ff;
+	border-radius: .25rem;
+	color: #fff;
+	padding: .375rem .75rem;
+	transition: .1s ease-in-out transform;
+}
+
+input.submit:hover {
+	transform: scale(1.05);
+}
+
+input.form-control {
+
+}
+
+input.form-control:focus {
+	border-color: #fff;
+	box-shadow: 0 0 0 0.1rem rgb(0 0 0 / 25%);
+}
+
+textarea.form-control {
+
+}
+
+textarea.form-control:focus {
+	border-color: #aaac84;
+	box-shadow: 0 0 0 0.1rem rgb(170 172 132 / 25%);
+}

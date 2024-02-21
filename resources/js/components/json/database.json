@@ -1,0 +1,56 @@
+[
+	{	
+			"first":
+				{	
+					"id": "0001",
+					
+				    "title": "Wil jij beter gevonden worden?",
+				
+				    "subtitle": "Wij hebben de juiste oplossing",
+				
+				    "text": "Wij helpen jouw bedrijf op weg in de digitale marketingwereld. Leads kan jouw omzet verhogen met minimaal 200 procent!",
+				    
+				    "button": "Afspraak maken"				
+					
+				},	
+			"second": 
+				{
+					"id": "0002",
+					
+				    "title": "Vergroot je klantbereik?",
+				
+				    "subtitle": "Vergroot je klantbereik",
+				
+				    "text": "Wij garanderen dat jouw website meer bezoekers gaat krijgen! Binnen 3 maanden is de campagne gericht op jouw doelgroep waardoor jij een stuk gemakkelijker klanten binnenhaalt.",
+				    
+				    "link": "Probeer het nu uit!"					
+					
+				},
+			"third": 
+				{	
+					"id": "0003",
+					
+				    "title": "Google Adwords",
+				
+				    "subtitle": "Onze expertise",
+				
+				    "text": "Met onze ervaring in Google Adwords weten wij jouw campagne binnen een maand winstgevend te maken. Naast Google Adwords houden wij ons bezig met het analyseren van de campagne en constante optimalisatie.",
+				    
+				    "link": "Bel of app ons voor meer informatie!"				
+					
+				},
+			"fourth": 
+				{	
+					"id": "0004",
+					
+				    "title": "Maandelijks opzegbaar",
+				
+				    "subtitle": "Je zit nergens aan vast!",
+				
+				    "text": "We proberen jouw campagne zo goed mogelijk te laten presteren. Als jouw campagne toch niet naar jouw wensen presteert kun je per maand uitstappen. Je zit dus niet aan lange termijnvoorwaarden vast!",
+				    
+				    "link": "Contact ons voor meer informatie."				
+					
+				}	
+	}
+]

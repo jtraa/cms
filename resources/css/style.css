@@ -1,0 +1,48 @@
+/************
+	BODY
+************/
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+    url(https://fonts.gstatic.com/s/opensans/v20/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2)
+    format('woff2');
+    font-display: swap;
+}
+
+body, html {
+    font-family: Open Sans, Arial, sans-serif !important;
+}
+
+/************
+	COLORS
+************/
+
+.txt-grey {
+	color: #444;
+}
+.txt-blue {
+	color: #3c73ff;
+}
+
+/************
+	LINKS
+************/
+
+a {
+	text-decoration: none;
+	transition: .2s ease-in-out color, text-decoration;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+@media screen and (min-width: 1401px) {
+
+    .container {
+        max-width: 1350px !important;
+    }
+}
